@@ -1,4 +1,4 @@
-<h1>Hi, I'm The-dora! <br/><a href="https://github.com/the-dora">Tech Lawyer </a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> governance risk and compliance expert, Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></h1>
+<h1>Hi, I'm The-dora! <br/><a href="https://github.com/the-dora">Tech Lawyer </a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> governance risk and compliance expert</a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -24,8 +24,7 @@
   - Foundations of Cybersecurity https://www.coursera.org/account/accomplishments/verify/Z8S3TLMUTCKL
   - 
   - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - 
 <h2>📺 Popular YouTube Videos</h2>
 
 - 

@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Governance Risk and Compliance expert:</h2>
 - Portfolio Project Spam Email Detection https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing
+
 - InfoSec Policy Starter Kit https://docs.google.com/document/d/1Iw6BuxkCGOgCoIGytE43m44e22y-zdyQH91fZ2HgIp8/edit?usp=sharing
 
 - <b></b>

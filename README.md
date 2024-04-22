@@ -1,10 +1,17 @@
 <h1>Hi, I'm The-dora! <br/><a href="https://github.com/the-dora">Tech Lawyer </a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> governance risk and compliance expert</a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Governance Risk and Compliance expert:</h2>
+- Portfolio Project Spam Email Detection https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing
+- InfoSec Policy Starter Kit https://docs.google.com/document/d/1Iw6BuxkCGOgCoIGytE43m44e22y-zdyQH91fZ2HgIp8/edit?usp=sharing
 
 - <b></b>
   - 
 - <b>Certifications</b>
+  -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b
+  - Introduction to Artificial Intelligence (AI) https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c
+  - Prompt Engineering https://coursera.org/share/c26914512059a3d71f668b975584d797
+  - ChatGPT Advanced Data Analysis https://coursera.org/share/76603e08f469d7b33efd1c5f6101302b
+  - Compliance and Risk Management https://coursera.org/share/3a8e93d7ca251b92947a23d318283dad
   - Google Cybersecurity https://www.coursera.org/account/accomplishments/professional-cert/SN7FQ3Z2GPSE
   - Automate Cybersecurity Tasks with Python https://www.coursera.org/account/accomplishments/verify/9FU7FEZDUZHL
   - Tools of the Trade: Linux and SQL https://www.coursera.org/account/accomplishments/verify/GZMM6QRDHR24

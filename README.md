@@ -1,12 +1,14 @@
-<h1>Hi, I'm The-dora! <br/><a href="https://github.com/the-dora">Tech Lawyer </a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> governance risk and compliance expert</a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></h1>
+<h1>Hi, I'm Ivie Theodora Omobude! <br/><a href="https://github.com/the-dora">Tech Lawyer </a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> governance risk and compliance expert</a>, <a href="www.linkedin.com/in/ivie-theodora-omobude-90940b234"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></h1>
 
-<h2>👨‍💻 Governance Risk and Compliance expert:</h2>
-- Portfolio Project Spam Email Detection https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing
+<h2>👨‍💻 Governance Risk and Compliance expert Portfolio:</h2>
+   - Portfolio Project Spam Email Detection https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing
+   - InfoSec Policy Starter Kit https://docs.google.com/document/d/1Iw6BuxkCGOgCoIGytE43m44e22y-zdyQH91fZ2HgIp8/edit?usp=sharing
 
-- InfoSec Policy Starter Kit https://docs.google.com/document/d/1Iw6BuxkCGOgCoIGytE43m44e22y-zdyQH91fZ2HgIp8/edit?usp=sharing
-
+<h2>👨‍💻 Project Manager Portfolio:</h2>
+   - Project Charter Template https://docs.google.com/document/d/1eKwchj5p80iHcyHmjpGkHuIi7Lj1dB7RN8d9tlK-sgI/edit?usp=sharing
+   - project management system for a lawyer https://www.notion.so/LegisPraxis-Agenda-46aa11e8ff214dbbb0a5243e7884096a?pvs=4
 - <b></b>
-  - 
+   
 - <b>Certifications</b>
   -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b
   - Introduction to Artificial Intelligence (AI) https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c

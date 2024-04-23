@@ -10,7 +10,7 @@
 
 <h2> 
 <b>Certifications</b>
-  -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b<h2>
+   -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b<h2>
    Introduction to Artificial Intelligence (AI) https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c
    Prompt Engineering https://coursera.org/share/c26914512059a3d71f668b975584d797
   - ChatGPT Advanced Data Analysis https://coursera.org/share/76603e08f469d7b33efd1c5f6101302b

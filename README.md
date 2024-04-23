@@ -7,12 +7,12 @@
 <h2>👨‍💻 Project Manager Portfolio:</h2>
    - Project Charter Template https://docs.google.com/document/d/1eKwchj5p80iHcyHmjpGkHuIi7Lj1dB7RN8d9tlK-sgI/edit?usp=sharing
    - project management system for a lawyer https://www.notion.so/LegisPraxis-Agenda-46aa11e8ff214dbbb0a5243e7884096a?pvs=4
-- <b></b>
-   
-- <b>Certifications</b>
-  -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b
-  - Introduction to Artificial Intelligence (AI) https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c
-  - Prompt Engineering https://coursera.org/share/c26914512059a3d71f668b975584d797
+
+<h2> 
+<b>Certifications</b>
+  -IBM Generative AI for Cybersecurity Professionals https://coursera.org/share/f086f2f2fa563832315314a7e472728b<h2>
+   Introduction to Artificial Intelligence (AI) https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c
+   Prompt Engineering https://coursera.org/share/c26914512059a3d71f668b975584d797
   - ChatGPT Advanced Data Analysis https://coursera.org/share/76603e08f469d7b33efd1c5f6101302b
   - Compliance and Risk Management https://coursera.org/share/3a8e93d7ca251b92947a23d318283dad
   - Google Cybersecurity https://www.coursera.org/account/accomplishments/professional-cert/SN7FQ3Z2GPSE
@@ -32,6 +32,7 @@
   - Connect and Protect: Networks and Network Security https://www.coursera.org/account/accomplishments/verify/7RNVRNLKUUN5
   - Play It Safe: Manage Security Risks https://www.coursera.org/account/accomplishments/verify/4R7PYHZXWQ2P
   - Foundations of Cybersecurity https://www.coursera.org/account/accomplishments/verify/Z8S3TLMUTCKL
+   <h2>
   - 
   - <b>Python</b>
   - 

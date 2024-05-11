@@ -10,6 +10,11 @@
 <h1>Hi, I'm Ivie Theodora Omobude!</h1>
 <p><a href="https://github.com/the-dora">Tech Lawyer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Governance Risk and Compliance Expert</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Project Manager</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> ai developer</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></p>
 
+<h2>👨‍💻 Tech Lawyer expert Portfolio:</h2>
+<ul>
+   <li><a href="https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing](https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing">Portfolio Project: Legal Frameworks for AI: Regulatory Landscape and Compliance Requirements</a></li>
+</ul>
+
 <h2>👨‍💻 Governance Risk and Compliance expert Portfolio:</h2>
 <ul>
    <li><a href="https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing">Portfolio Project: Spam Email Detection</a></li>

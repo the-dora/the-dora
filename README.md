@@ -8,7 +8,7 @@
 <body>
 
 <h1>Hi, I'm Ivie Theodora Omobude!</h1>
-<p><a href="https://github.com/the-dora">Tech Lawyer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Governance Risk and Compliance Expert</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Project Manager</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> ai developer</a>, <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></p>
+<p><a href="https://github.com/the-dora">Tech Lawyer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Governance Risk and Compliance Expert</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Project Manager</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> ai developer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> prompt engineer</a> <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></p>
 
 <h2>👨‍💻 Tech Lawyer expert Portfolio:</h2>
 <ul>
@@ -27,6 +27,11 @@
    <li><a href="https://docs.google.com/document/d/1eKwchj5p80iHcyHmjpGkHuIi7Lj1dB7RN8d9tlK-sgI/edit?usp=sharing">Project Charter Template</a></li>
    <li><a href="https://www.notion.so/LegisPraxis-Agenda-46aa11e8ff214dbbb0a5243e7884096a?pvs=4">Project Management System for a Lawyer</a></li>
    <li><a href="https://docs.google.com/document/d/1rGP9Dj9goNyN8bk1Wq5ttetazbTvcyFkJ20j5ykcRNs/edit?usp=sharing">Low-fidelity Wireframe for ShareIt Social Media Application</a></li>
+</ul>
+
+<h2>👨‍💻 Prompt Engineer:</h2>
+<ul>
+   <li><a href="https://docs.google.com/document/d/1bsYi7-J5bPVC2KEEE7Wsca8JGxCX5QUM2jyJhJVuca4/edit?usp=sharing">Milestone: The Battle of the LLMs</a></li>
 </ul>
 
 <h2>Certifications</h2>

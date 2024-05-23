@@ -18,6 +18,7 @@
 <h2>👨‍💻 Governance, Risk, and Compliance Expert Portfolio:</h2>
 <ul>
    <li><a href="https://docs.google.com/document/d/1tE6-YoEW0AZhht_cBRSXBX7hNv1WGuZCFK52h2V61VI/edit?usp=sharing">Portfolio Project: Botium Toys Biannual Cybersecurity Audit</a></li>
+   <li><a href="https://docs.google.com/document/d/175rTaWm_cQ-TL7sfjOlPOIZjG3iDl05rTNb4Igpoi1Y/edit?usp=sharing">Comprehensive Financial Risk Management for Hypothetical Financial Services Inc.</a></li>
    <li><a href="https://docs.google.com/document/d/1PltMctfRQYCN91CUf3NlCpdOZsoigcYJ5gZldaDmQBc/edit?usp=sharing">Portfolio Project: Spam Email Detection</a></li>
    <li><a href="https://docs.google.com/document/d/1Iw6BuxkCGOgCoIGytE43m44e22y-zdyQH91fZ2HgIp8/edit?usp=sharing">InfoSec Policy Starter Kit</a></li>
 </ul>

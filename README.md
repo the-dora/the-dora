@@ -35,6 +35,11 @@
    <li><a href="https://docs.google.com/document/d/1bsYi7-J5bPVC2KEEE7Wsca8JGxCX5QUM2jyJhJVuca4/edit?usp=sharing">Milestone: The Battle of the LLMs</a></li>
 </ul>
 
+<h2>👨‍💻 AI Developer Portfolio:</h2>
+<ul>
+   <li><a href="https://docs.google.com/document/d/1GKdtsALkDk2OHl95H4OUIv7gaR7K45Hotk9HhnnkmiI/edit?usp=sharing">Financial Chatbot Documentation</a></li>
+</ul>
+
 <h2>Certifications</h2>
 <ul>
    <li><a href="https://coursera.org/share/f086f2f2fa563832315314a7e472728b">IBM Generative AI for Cybersecurity Professionals</a></li>

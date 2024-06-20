@@ -26,11 +26,11 @@
 <h2>👨‍💻 Project Manager Portfolio:</h2>
 <ul>
    <li><a href="https://docs.google.com/document/d/1eKwchj5p80iHcyHmjpGkHuIi7Lj1dB7RN8d9tlK-sgI/edit?usp=sharing">Project Charter Template</a></li>
-   <li><a href="https://www.notion.so/LegisPraxis-Agenda-46aa11e8ff214dbbb0a5243e7884096a?pvs=4">Project Management System for a Lawyer</a></li>
+   <li><a href="https://noble-patient-84c.notion.site/LegisPraxis-Agenda-46aa11e8ff214dbbb0a5243e7884096a?pvs=4">Project Management System for a Lawyer</a></li>
    <li><a href="https://docs.google.com/document/d/1rGP9Dj9goNyN8bk1Wq5ttetazbTvcyFkJ20j5ykcRNs/edit?usp=sharing">Low-fidelity Wireframe for ShareIt Social Media Application</a></li>
    <li><a href="https://docs.google.com/spreadsheets/d/1BHOB_7-aXPCHOiCbNca_1YjVxlVr3v1XdV8Y86unp18/edit?usp=sharing">Dashboard</a></li>
 </ul>
-</ul>
+
 
 <h2>👨‍💻 Prompt Engineer:</h2>
 <ul>

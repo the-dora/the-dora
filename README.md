@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Tech Lawyer Expert Portfolio:</h2>
 <ul>
-   <li><a href="https://docs.google.com/presentation/d/1eCQP_tp7HBZqN3GN54oy9R6wgKvTSeYwbVz-OQVtMk8/edit?usp=sharing">Portfolio Project: Legal Frameworks for AI: Regulatory Landscape and Compliance Requirements</a></li>
+   <li><a href="https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing">Portfolio Project: Legal Frameworks for AI: Regulatory Landscape and Compliance Requirements</a></li>
 </ul>
 
 <h2>👨‍💻 Governance, Risk, and Compliance Expert Portfolio:</h2>

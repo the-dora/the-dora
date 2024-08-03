@@ -19,6 +19,8 @@
 
 <h2>👨‍💻 Governance, Risk, and Compliance Expert Portfolio:</h2>
 <ul>
+    <li><a href="https://docs.google.com/presentation/d/1y3P37BXPDCsHAH0YlRjB1-iu8GGYfniVidHmASHl8WQ/edit?usp=sharing">Portfolio Project: Hackathon Group 2's Bridging Divides: The Impact and Regulation of BCI Technology in Sambaza's Education Presentation</a></li>
+    <li><a href="https://docs.google.com/document/d/1W5ZoJxxstgeZd-MGtbS8UxoRaptuC3Z-DxfZuRvIdt8/edit?usp=sharing">Portfolio Project: Hackathon Group 2's Bridging Divides: The Impact and Regulation of BCI Technology in Sambaza's Education Essay</a></li>
     <li><a href="https://docs.google.com/document/d/1ol5sjavzsFXym6bLnGB-VDwiSD-gXV6sGAs8pqOPaM8/edit?usp=sharing">Portfolio Project: Privacy Impact Assessment (PIA) Kit</a></li>
     <li><a href="https://docs.google.com/document/d/1tE6-YoEW0AZhht_cBRSXBX7hNv1WGuZCFK52h2V61VI/edit?usp=sharing">Portfolio Project: Botium Toys Biannual Cybersecurity Audit</a></li>
     <li><a href="https://docs.google.com/document/d/175rTaWm_cQ-TL7sfjOlPOIZjG3iDl05rTNb4Igpoi1Y/edit?usp=sharing">Effective Risk Management Portfolio for Hypothetical Financial Services Inc.</a></li>

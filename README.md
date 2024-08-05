@@ -12,6 +12,8 @@
 
 <h2>👨‍💻 Tech Lawyer Expert Portfolio:</h2>
 <ul>
+   <li><a href="https://docs.google.com/document/d/1G8mwdDzac2H7mm1NQcRCCdTnP-UzA97JlUE5CfNSa2w/edit?usp=sharing">Portfolio Project: PARTNERSHIP AGREEMENT</a></li>
+
    <li><a href="https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing">Portfolio Project: Legal Frameworks for AI: Regulatory Landscape and Compliance Requirements</a></li>
    
    <li><a href="https://docs.google.com/presentation/d/1P84KULwrncTj9XyymfMr6PH8mnKs_vR1dE4JMKT9Ogg/edit?usp=sharing">Portfolio Project: AI Governance</a></li>
@@ -50,7 +52,12 @@
 
 <h2>Certifications</h2>
 <ul>
-   <li><a href="https://coursera.org/share/f086f2f2fa563832315314a7e472728b">IBM Generative AI for Cybersecurity Professionals</a></li>
+   <li><a href="https://coursera.org/verify/specialization/ZSNK63G35EU8">Prompt Engineering</a></li>
+<li><a href="https://coursera.org/verify/DYXYA2RJ6DXW">The GRC Approach to Managing Cybersecurity</a></li>
+<li><a href="https://coursera.org/verify/professional-cert/SN7FQ3Z2GPSE">Cybersecurity Professional</a></li>
+<li><a href="https://coursera.org/verify/professional-cert/SN7FQ3Z2GPSE">Google Cybersecurity</a></li>
+<li><a href="https://www.credly.com/badges/a93a5dec-bef2-48e4-b841-9b8f677a2fa8/print">NITDA Cybersecurity Associate</a></li>
+<li><a href="https://coursera.org/share/f086f2f2fa563832315314a7e472728b">IBM Generative AI for Cybersecurity Professionals</a></li>
    <li><a href="https://coursera.org/share/b30291e54f7e7372a2a72da92480b86c">Introduction to Artificial Intelligence (AI)</a></li>
    <li><a href="https://coursera.org/share/c26914512059a3d71f668b975584d797">Prompt Engineering</a></li>
    <li><a href="https://coursera.org/share/76603e08f469d7b33efd1c5f6101302b">ChatGPT Advanced Data Analysis</a></li>

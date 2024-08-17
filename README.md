@@ -12,7 +12,10 @@
 
 <h2>👨‍💻 Tech Lawyer Expert Portfolio:</h2>
 <ul>
-   <li><a href="https://docs.google.com/document/d/1I765Cvs2ZmrB3PUFnRqR7FJc4NRmcYOmQmwEuvTq4tY/edit?usp=sharing">Portfolio Project: Memorandum Of Understanding</a></li>
+   
+   <li><a href="https://docs.google.com/document/d/1ljE48yASB1xkC6_aBrtiuxaSe48azS5V/edit?usp=sharing&ouid=117722228861705700809&rtpof=true&sd=true">Portfolio Project: Deed of Assignment/a></li>
+   
+   <li><a href="https://docs.google.com/document/d/1I765Cvs2ZmrB3PUFnRqR7FJc4NRmcYOmQmwEuvTq4tY/edit?usp=sharing">Portfolio Project: Memorandum Of Understanding For Funding, Development And Exploration Of Petroleum Product</a></li>
 
    <li><a href="https://docs.google.com/document/d/1G8mwdDzac2H7mm1NQcRCCdTnP-UzA97JlUE5CfNSa2w/edit?usp=sharing">Portfolio Project: Partnership Agreement</a></li>
 

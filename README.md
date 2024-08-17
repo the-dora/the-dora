@@ -12,12 +12,15 @@
 
 <h2>👨‍💻 Tech Lawyer Expert Portfolio:</h2>
 <ul>
+   <li><a href="https://docs.google.com/document/d/1I765Cvs2ZmrB3PUFnRqR7FJc4NRmcYOmQmwEuvTq4tY/edit?usp=sharing">Portfolio Project: Memorandum Of Understanding</a></li>
+
    <li><a href="https://docs.google.com/document/d/1G8mwdDzac2H7mm1NQcRCCdTnP-UzA97JlUE5CfNSa2w/edit?usp=sharing">Portfolio Project: Partnership Agreement</a></li>
 
    <li><a href="https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing">Portfolio Project: Legal Frameworks for AI: Regulatory Landscape and Compliance Requirements</a></li>
    
    <li><a href="https://docs.google.com/presentation/d/1P84KULwrncTj9XyymfMr6PH8mnKs_vR1dE4JMKT9Ogg/edit?usp=sharing">Portfolio Project: AI Governance</a></li>
 </ul>
+
 
 <h2>👨‍💻 Governance, Risk, and Compliance Expert Portfolio:</h2>
 <ul>

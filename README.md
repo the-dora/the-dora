@@ -89,7 +89,7 @@
 
 <h2>Connect with me:</h2>
 <a href="https://www.youtube.com/@ivieomobude9016"><img align="left" alt="the-dora | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>
-<a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"><img align="left" alt="the-dora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/ivietheodoraomobudegovernanceriskandcompliancegrcanalyst"><img align="left" alt="the-dora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="https://www.instagram.com/th_odora/"><img align="left" alt="the-dora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 </body>

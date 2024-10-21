@@ -92,5 +92,8 @@
 <a href="https://www.linkedin.com/in/ivietheodoraomobudegovernanceriskandcompliancegrcanalyst"><img align="left" alt="the-dora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="https://www.instagram.com/th_odora/"><img align="left" alt="the-dora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
+<h2>More Projects Coming Soon!</h2>
+<p>Stay tuned for exciting updates! Follow me on LinkedIn and GitHub for the latest project releases.</p>
+
 </body>
 </html>

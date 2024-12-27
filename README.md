@@ -11,34 +11,45 @@
 <p><a href="https://github.com/the-dora">Tech Lawyer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Governance Risk and Compliance Expert</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234">Project Manager</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> ai developer</a>, <a href="https://www.linkedin.com/in/ivie-theodora-omobude-90940b234"> prompt engineer</a> <a href="https://www.youtube.com/@ivieomobude9016">YouTuber</a></p>
 
 <h2>👨‍💻 Tech Lawyer Expert Portfolio:</h2>
-<ul>
-   
-   <li><a href="https://docs.google.com/document/d/1ljE48yASB1xkC6_aBrtiuxaSe48azS5V/edit?usp=sharing&ouid=117722228861705700809&rtpof=true&sd=true">Portfolio Project: Deed of Assignment/a></li>
-   
-   <li><a href="https://docs.google.com/document/d/1I765Cvs2ZmrB3PUFnRqR7FJc4NRmcYOmQmwEuvTq4tY/edit?usp=sharing">Portfolio Project: Memorandum Of Understanding For Funding, Development And Exploration Of Petroleum Product</a></li>
-
-  <ul>
-    <li>
-        <a href="https://docs.google.com/document/d/1G8mwdDzac2H7mm1NQcRCCdTnP-UzA97JlUE5CfNSa2w/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-            Portfolio Project: Partnership Agreement
-        </a>
-    </li>
-    <li>
-        <a href="https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-            Portfolio Project: Legal Frameworks for AI – Regulatory Landscape and Compliance Requirements
-        </a>
-    </li>
-    <li>
-        <a href="https://docs.google.com/document/d/16o5nHrH5Cf0Z-_2D21FOS64Ar-6dzDV8t_YnG6u4ybY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-            Portfolio Project: Explainability Audit for AI Models
-        </a>
-    </li>
-</ul>
-
-
-    
-   <li><a href="https://docs.google.com/presentation/d/1P84KULwrncTj9XyymfMr6PH8mnKs_vR1dE4JMKT9Ogg/edit?usp=sharing">Portfolio Project: AI Governance</a></li>
-</ul>
+    <ul>
+        <li>
+            <a href="https://docs.google.com/document/d/1YgjAkd9RodgISjn5ED0eCMjtRKuFQXrYEPg1BoXM0Ss/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Data Transfer Compliance Audit for Multinational Corporation
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/document/d/1ljE48yASB1xkC6_aBrtiuxaSe48azS5V/edit?usp=sharing&ouid=117722228861705700809&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: Deed of Assignment
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/document/d/1I765Cvs2ZmrB3PUFnRqR7FJc4NRmcYOmQmwEuvTq4tY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: Memorandum Of Understanding For Funding, Development And Exploration Of Petroleum Product
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/document/d/1G8mwdDzac2H7mm1NQcRCCdTnP-UzA97JlUE5CfNSa2w/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: Partnership Agreement
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/presentation/d/1Kh6j3EskRoAEqqU7toBt5L203Ypqmkhx_lMnJR6bRSs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: Legal Frameworks for AI – Regulatory Landscape and Compliance Requirements
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/document/d/16o5nHrH5Cf0Z-_2D21FOS64Ar-6dzDV8t_YnG6u4ybY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: Explainability Audit for AI Models
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/presentation/d/1P84KULwrncTj9XyymfMr6PH8mnKs_vR1dE4JMKT9Ogg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Portfolio Project: AI Governance
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
 
 
 <h2>👨‍💻 Governance, Risk, and Compliance Expert Portfolio:</h2>
